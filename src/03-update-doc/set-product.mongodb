@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Cama ortopédica para perros mayores",
+    "price": 59.99,
+    "description": "Una cama con soporte ortopédico para perros mayores que necesitan comodidad adicional.",
+    "category": "Camas para mascotas",
+    "image": "https://example.com/cama-ortopedica-perros.jpg"
+  },
+  {
+    "title": "Poste rascador de gato con juguete colgante",
+    "price": 34.99,
+    "description": "Un poste rascador con un juguete colgante para mantener a tu gato entretenido y sus uñas sanas.",
+    "category": "Rascadores para gatos",
+    "image": "https://example.com/poste-rascador-gato.jpg"
+  },
+  {
+    "title": "Pelota de goma resistente para cachorros",
+    "price": 15.99,
+    "description": "Una pelota de goma extra resistente para cachorros que adoran morder y jugar.",
+    "category": "Juguetes para cachorros",
+    "image": "https://example.com/pelota-goma-cachorro.jpg"
+  },
+  {
+    "title": "Arnés reflectante y ajustable para perros",
+    "price": 19.99,
+    "description": "Un arnés cómodo y reflectante para paseos nocturnos seguros con tu perro.",
+    "category": "Collares y correas",
+    "image": "https://example.com/arnes-reflectante-perro.jpg"
+  },
+  {
+    "title": "Fuente de agua automática para gatos",
+    "price": 49.99,
+    "description": "Una fuente de agua filtrada y silenciosa para mantener a tu gato hidratado.",
+    "category": "Alimentación automatizada",
+    "image": "https://example.com/fuente-agua-gatos.jpg"
+  },
+  {
+    "title": "Juguete dispensador de snacks para perros",
+    "price": 19.99,
+    "description": "Un juguete interactivo que dispensa snacks mientras tu perro juega con él.",
+    "category": "Juguetes interactivos",
+    "image": "https://example.com/juguete-dispensador-perros.jpg"
+  },
+  {
+    "title": "Cepillo doble cara para gatos de pelo largo",
+    "price": 14.99,
+    "description": "Un cepillo con diseño de doble cara para un cuidado eficiente del pelaje largo de tu gato.",
+    "category": "Cuidado del pelaje",
+    "image": "https://example.com/cepillo-doble-cara-gatos.jpg"
+  },
+  {
+    "title": "Parque de juegos plegable para conejos",
+    "price": 29.99,
+    "description": "Un parque plegable con túneles y áreas de juego para mantener a tu conejo activo.",
+    "category": "Accesorios para conejos",
+    "image": "https://example.com/parque-juegos-conejos.jpg"
+  },
+  {
+    "title": "Juguete interactivo de laberinto para hámsters",
+    "price": 12.99,
+    "description": "Un juguete laberíntico con múltiples niveles para entretener a tu hámster.",
+    "category": "Juguetes para hámsters",
+    "image": "https://example.com/labertino-interactivo-hamster.jpg"
+  },
+  {
+    "title": "Transportador de aves con perchas ajustables",
+    "price": 24.99,
+    "description": "Un transportador con perchas ajustables para un viaje cómodo y seguro para tus aves.",
+    "category": "Transporte para aves",
+    "image": "https://example.com/transportador-aves.jpg"
+  }
+]
