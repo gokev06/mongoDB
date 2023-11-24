@@ -1,0 +1,153 @@
+// products.mongodb
+
+use("pet_store")
+
+db.products.drop() // elimina los documentos creados en la colleccion anteriormente
+
+db.products.insertMany([
+    "price": 9.99,
+    
+    {
+"description": "Un arnés ajustable y ligero para sacar a pasear a tu conejo de manera segura.",
+    
+ 
+"category": "Accesorios para conejos",
+    
+ 
+"image": "https://example.com/arne-conejo.jpg"
+  },
+  {
+    
+    
+"title": "Juguete de cuerda para masticar",
+    "price": 8.99,
+    
+    
+"description": "Un juguete duradero de cuerda para satisfacer la necesidad de masticar de tu mascota.",
+    "category": "Juguetes para masticar",
+    "image": "https://example.com/juguete-masticar.jpg"
+  },
+  {
+    
+    
+"title": "Cepillo para gatos de pelo largo",
+    
+    
+"price": 11.99,
+    "description": "Un cepillo suave y efectivo para mantener el pelo largo de tu gato libre de enredos.",
+    "category": "Cuidado del pelaje",
+    
+ 
+"image": "https://example.com/cepillo-gatos.jpg"
+  },
+  {
+    
+  
+"title": "Rampa plegable para perros pequeños",
+    "price": 34.99,
+    
+   
+"description": "Una rampa liviana y plegable para ayudar a perros pequeños a subir a lugares altos.",
+    "category": "Ayudas para la movilidad",
+    
+ 
+"image": "https://example.com/rampa-perros.jpg"
+  },
+  
+  
+{
+    "title": "Cama térmica para reptiles",
+    
+  
+"price": 27.99,
+    
+    
+"description": "Una cama térmica ajustable para proporcionar calor a reptiles en un ambiente controlado.",
+    "category": "Accesorios para reptiles",
+    
+    
+"image": "https://example.com/cama-reptiles.jpg"
+  },
+  {
+    
+   
+"title": "Bolso transportador para hurones",
+    
+    
+"price": 21.99,
+    "description": "Un bolso cómodo y ventilado para llevar a tu hurón de paseo de manera segura.",
+    
+  
+"category": "Transporte para hurones",
+    "image": "https://example.com/bolso-huron.jpg"
+  
+ 
+},
+  {
+    "title": "Dispensador de agua para pájaros",
+    "price": 14.99,
+    "description": "Un dispensador automático de agua para mantener a tus pájaros hidratados.",
+    "category": "Alimentación para aves",
+    
+ 
+"image": "https://example.com/dispensador-aves.jpg"
+  },
+  
+ 
+{
+    
+    
+"title": "Juguete interactivo para hámsters",
+    
+   
+"price": 7.99,
+    "description": "Un juguete laberíntico que estimula la actividad física y mental de los hámsters.",
+    "category": "Juguetes para hámsters",
+    "image": "https://example.com/juguete-hamster.jpg"
+  },
+  {
+    "title": "Cama elevada para gatos",
+    "price": 37.99,
+    "description": "Una cama elevada y cómoda para que tu gato se relaje en altura.",
+    "category": "Camas para gatos",
+    "image": "https://example.com/cama-gatos.jpg"
+  },
+  {
+    "title": "Cepillo dental para perros",
+    "price": 9.99,
+    "description": "Un cepillo diseñado para cuidar la salud dental de tu perro.",
+    
+ 
+"category": "Higiene bucal",
+    
+   
+"image": "https://example.com/cepillo-dental-perros.jpg"
+  
+  
+},
+  {
+    
+ 
+"title": "Laberinto de ejercicio para conejos",
+    
+ 
+"price": 19.99,
+    
+ 
+"description": "Un laberinto divertido y desafiante para que tu conejo haga ejercicio y se entretenga.",
+    "category": "Juguetes para conejos",
+    "image": "https://example.com/labertino-conejo.jpg"
+  
+  
+},
+  {
+    "title": "Set de correas y arnés para aves",
+    
+    
+"price": 12.99,
+    "description": "Un conjunto ajustable de correas y arnés para permitir que tus aves disfruten del exterior de manera segura.",
+    "category": "Accesorios para aves",
+    "image": "https://example.com/correas-aves.jpg"
+  
+  
+}
